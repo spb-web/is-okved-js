@@ -1,5 +1,5 @@
 ( function( ) {
-	var regExpOkvedCode = /^(\d{1,2})(\.\d(\d(\.\d{1,2})?)?)?$/;
+	var regExpOkvedCode = /^(\d\d)(\.\d(\d(\.\d{1,2})?)?)?$/;
 	var isOkved = function( okved ) {
 		return (
 			typeof okved === "string" &&
