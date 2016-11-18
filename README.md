@@ -4,7 +4,7 @@
 
 ### Установка:
 ```sh
-$ npm install isOkvedJs --save
+$ npm install is-okved-js --save
 ```
 
 ### Пример использования
